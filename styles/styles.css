@@ -1,0 +1,97 @@
+/*genericas*/
+.titles {
+    margin-top: 20px;
+}
+.button-center {
+    border: 2px solid gray;
+    padding: 15px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button-small {
+    border: 2px solid gray;
+    padding: 5px;
+    width: 20%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.no-border {
+    border: none;
+}
+
+/*Navegacion*/
+.nav-izq ul li  {
+    text-decoration: none;
+    list-style: none;
+    padding: 7px;
+    margin: auto;
+    margin-top: 7px;
+}
+
+.nav-izq ul li a  {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    margin-left: 7px;
+    
+}
+/*contenido principal*/
+
+
+.foto {
+    width: 250px;
+    height: 250px;
+    background-image: url("../img/192303176_5650095131731063_3010918381469792522_n.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
+.foto-principal {
+    width: 250px;
+    height: 250px;
+    background-image: url("../img/192303176_5650095131731063_3010918381469792522_n.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+
+
+.tag {
+    border: 2px solid gray;
+    padding: 35px;
+    border-radius: 60px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.text-principal {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.alineacion {
+    display: inline;
+}
+
+.card1{
+    width: 400px;
+    margin: auto;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.cards {
+    width: 100%;
+}
+.tamano {
+    font-size: 2rem;
+}
